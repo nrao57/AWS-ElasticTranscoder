@@ -20,4 +20,5 @@ aws elastictranscoder list-jobs-by-pipeline --pipeline-id 1539975801336-wsutsm
 
 ## AWS Official Documentation
 [AWS Elastic Transcoder Documentation](https://aws.amazon.com/elastictranscoder/)
+
 [AWS CLI Elastic Transcoder Documentation](https://docs.aws.amazon.com/cli/latest/reference/elastictranscoder/index.html#cli-aws-elastictranscoder)
